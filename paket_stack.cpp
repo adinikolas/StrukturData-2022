@@ -53,7 +53,8 @@ void tampilkanData(int n){
 }
 
 int main(){
-    int pilih, datake=1;
+    int pilih;
+    int datake=1;
     do{
         cout << "Menu Utama" << endl;
         cout << "1. Tambah Data" << endl;
